@@ -54,6 +54,8 @@ export const ComparisonChart = () => {
         labels: productDates.map(date => dayjs(date * 1000).format('DD')),
         datasets: dataChart
       });
+    } else {
+      setDataForChart({});
     }
   }, [selectedItems]);
 
@@ -93,7 +95,9 @@ export const ComparisonChart = () => {
       </div>
 
       {Object.keys(dataForChart).length > 0 && (
-        <Bar options={options} data={dataForChart} />
+        <div className="chartBlock">
+          <Bar options={options} data={dataForChart} />
+        </div>
       )}
     </div>
   );
