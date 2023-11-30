@@ -1,8 +1,8 @@
 {
-  "name": "test-work-29-11-2023",
+  "name": "test-work-30-11-2023",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/elizabeth-honch/test-work-Infranomics",
+  "homepage": "https://elizabeth-honch.github.io/testWork_30.11/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
