@@ -1,23 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import { ProductTable } from './components/ProductTable';
+import { ProductChart } from './components/ProductChart';
+import { ComparisonChart } from './components/ComparisonChart';
+import { Tabs } from 'antd';
 
 function App() {
+  const items = [
+    {
+      key: '1',
+      label: 'Table',
+      children: <ProductTable />,
+    },
+    {
+      key: '2',
+      label: 'Chart',
+      children: <ProductChart />,
+    },
+    {
+      key: '3',
+      label: 'Comparison Feature',
+      children: <ComparisonChart />
+    },
+  ];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="main">
+      <h2>Dashboard</h2>
+
+      <Tabs
+        defaultActiveKey="1"
+        items={items}
+      />
     </div>
   );
 }

@@ -1,0 +1,19 @@
+.csvBlock {
+  display: flex;
+  justify-content: flex-end;
+
+  a {
+    padding: 5px 10px;
+    background: #95b7ed;
+    color: #4d607d;
+    font-weight: 700;
+    border: 1px solid #4d607d;
+    transition: 0.5s all;
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: #6e9be0;
+    }
+  }
+}

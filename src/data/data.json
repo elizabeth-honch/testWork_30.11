@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "revenue": 100,
+    "units_sold": 20,
+    "profit_margins": 30,
+    "date": 1698832800,
+    "category": "Product 1"
+  },
+  {
+    "id": 2,
+    "revenue": 105,
+    "units_sold": 25,
+    "profit_margins": 35,
+    "date": 1699005600,
+    "category": "Product 1"
+  },
+  {
+    "id": 3,
+    "revenue": 110,
+    "units_sold": 30,
+    "profit_margins": 40,
+    "date": 1699092000,
+    "category": "Product 1"
+  },
+  {
+    "id": 4,
+    "revenue": 115,
+    "units_sold": 35,
+    "profit_margins": 45,
+    "date": 1699264800,
+    "category": "Product 1"
+  },
+  {
+    "id": 5,
+    "revenue": 50,
+    "units_sold": 20,
+    "profit_margins": 25,
+    "date": 1699610400,
+    "category": "Product 1"
+  },
+  {
+    "id": 6,
+    "revenue": 30,
+    "units_sold": 17,
+    "profit_margins": 34,
+    "date": 1700042400,
+    "category": "Product 1"
+  },
+  {
+    "id": 7,
+    "revenue": 11,
+    "units_sold": 7,
+    "profit_margins": 4,
+    "date": 1700128800,
+    "category": "Product 1"
+  },
+  {
+    "id": 8,
+    "revenue": 15,
+    "units_sold": 9,
+    "profit_margins": 14,
+    "date": 1700388000,
+    "category": "Product 1"
+  },
+  {
+    "id": 9,
+    "revenue": 200,
+    "units_sold": 40,
+    "profit_margins": 36,
+    "date": 1700992800,
+    "category": "Product 1"
+  },
+  {
+    "id": 10,
+    "revenue": 350,
+    "units_sold": 55,
+    "profit_margins": 39,
+    "date": 1701165600,
+    "category": "Product 1"
+  },
+  {
+    "id": 11,
+    "revenue": 110,
+    "units_sold": 21,
+    "profit_margins": 26,
+    "date": 1698832800,
+    "category": "Product 2"
+  },
+  {
+    "id": 12,
+    "revenue": 111,
+    "units_sold": 7,
+    "profit_margins": 15,
+    "date": 1699005600,
+    "category": "Product 2"
+  },
+  {
+    "id": 13,
+    "revenue": 150,
+    "units_sold": 40,
+    "profit_margins": 50,
+    "date": 1699092000,
+    "category": "Product 2"
+  },
+  {
+    "id": 14,
+    "revenue": 127,
+    "units_sold": 22,
+    "profit_margins": 34,
+    "date": 1699264800,
+    "category": "Product 2"
+  },
+  {
+    "id": 15,
+    "revenue": 53,
+    "units_sold": 22,
+    "profit_margins": 21,
+    "date": 1699610400,
+    "category": "Product 2"
+  },
+  {
+    "id": 16,
+    "revenue": 15,
+    "units_sold": 9,
+    "profit_margins": 13,
+    "date": 1700042400,
+    "category": "Product 2"
+  },
+  {
+    "id": 17,
+    "revenue": 26,
+    "units_sold": 20,
+    "profit_margins": 13,
+    "date": 1700128800,
+    "category": "Product 2"
+  },
+  {
+    "id": 18,
+    "revenue": 15,
+    "units_sold": 11,
+    "profit_margins": 22,
+    "date": 1700388000,
+    "category": "Product 2"
+  },
+  {
+    "id": 19,
+    "revenue": 132,
+    "units_sold": 22,
+    "profit_margins": 21,
+    "date": 1700992800,
+    "category": "Product 2"
+  },
+  {
+    "id": 20,
+    "revenue": 230,
+    "units_sold": 32,
+    "profit_margins": 32,
+    "date": 1701165600,
+    "category": "Product 2"
+  },
+  {
+    "id": 21,
+    "revenue": 110,
+    "units_sold": 11,
+    "profit_margins": 26,
+    "date": 1698832800,
+    "category": "Product 3"
+  },
+  {
+    "id": 22,
+    "revenue": 111,
+    "units_sold": 16,
+    "profit_margins": 15,
+    "date": 1699005600,
+    "category": "Product 3"
+  },
+  {
+    "id": 23,
+    "revenue": 150,
+    "units_sold": 22,
+    "profit_margins": 50,
+    "date": 1699092000,
+    "category": "Product 3"
+  },
+  {
+    "id": 24,
+    "revenue": 127,
+    "units_sold": 47,
+    "profit_margins": 34,
+    "date": 1699264800,
+    "category": "Product 3"
+  },
+  {
+    "id": 25,
+    "revenue": 53,
+    "units_sold": 65,
+    "profit_margins": 21,
+    "date": 1699610400,
+    "category": "Product 3"
+  },
+  {
+    "id": 26,
+    "revenue": 15,
+    "units_sold": 69,
+    "profit_margins": 13,
+    "date": 1700042400,
+    "category": "Product 3"
+  },
+  {
+    "id": 27,
+    "revenue": 15,
+    "units_sold": 41,
+    "profit_margins": 22,
+    "date": 1700128800,
+    "category": "Product 3"
+  },
+  {
+    "id": 28,
+    "revenue": 132,
+    "units_sold": 42,
+    "profit_margins": 21,
+    "date": 1700388000,
+    "category": "Product 3"
+  },
+  {
+    "id": 29,
+    "revenue": 230,
+    "units_sold": 4,
+    "profit_margins": 32,
+    "date": 1700992800,
+    "category": "Product 3"
+  },
+  {
+    "id": 30,
+    "revenue": 230,
+    "units_sold": 11,
+    "profit_margins": 32,
+    "date": 1701165600,
+    "category": "Product 3"
+  }
+]
