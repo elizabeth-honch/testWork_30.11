@@ -1,6 +1,6 @@
 # Test work Infranomics
 
-[DEMOLINK]([https://github.com/facebook/create-react-app](https://elizabeth-honch.github.io/testWork_30.11/)).
+[DEMOLINK](https://elizabeth-honch.github.io/testWork_30.11/)
 
 ## Available Scripts
 
